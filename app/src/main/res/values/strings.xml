@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hilos</string>
+
+    <string name="Asyn">Asyn</string>
+    <string name="Thread">Thread</string>
+    <string name="dos">Dos a la vez</string>
+    <string name="cero">0</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
